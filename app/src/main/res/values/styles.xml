@@ -1,0 +1,13 @@
+<resources>
+
+    <style name="Widget.Theme.MIS.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">@color/black_overlay</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>
+    <style name="MyMenuItemStyle" parent="Widget.AppCompat.TextView">
+        <item name="android:textSize">28dp</item>
+        <item name="android:textColor">@color/backgroundgreen</item>
+    </style>
+
+
+</resources>
